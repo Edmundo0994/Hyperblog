@@ -26,6 +26,12 @@ body {
     align-items: center;
 }
 
+.cabecera span{
+    align-items: baseline;
+    font-size: 25px;
+    margin-left: 1rem;
+}
+
 .container h1{
     font-size: 20px;
 }
@@ -39,12 +45,12 @@ body {
 }
 
 .cabecera h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .footer{
     text-align: center;
     padding: 0.5rem;
-    background-color: green;
+    background-color: #33A;
     color: white;
 }
